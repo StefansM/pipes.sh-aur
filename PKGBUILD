@@ -1,6 +1,6 @@
 # Maintainer: To Be Assigned <youremail@domain.com>
 pkgname=pipes.sh
-pkgver=1.0.0
+pkgver=1.3.0
 pkgrel=1
 pkgdesc='Animated pipes terminal screensaver'
 arch=('any')
